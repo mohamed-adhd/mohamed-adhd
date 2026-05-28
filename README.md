@@ -1,3 +1,3 @@
-c/c++ adhd programmer
-<img width="185" height="150" alt="2hk9" src="https://github.com/user-attachments/assets/0715b614-49fc-4a42-bcb1-3747e8dba83d" /> 
+                                                           <img width="150" height="150" alt="XwI4" src="https://github.com/user-attachments/assets/c3113c2e-ff91-48ed-b485-d2e600da4dd1" />
+ 
 

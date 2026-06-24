@@ -7,7 +7,6 @@
 </div>
 c/c++ adhd programmer
 
-
 [![](https://img.shields.io/badge/-🕹️%20Raycaster-000)](https://github.com/midou5098/raycaster)
 [![](https://img.shields.io/badge/-🧭%20Pathfinder-000)](https://github.com/midou5098/pathfinder)
 [![](https://img.shields.io/badge/-📊%20sorting%20visualizer-000)](https://github.com/midou5098/sorting-algorithms-visualizer)

@@ -5,7 +5,7 @@
     <img src="https://streak-stats.demolab.com?user=mohamed-adhd&theme=everforest-dark&mode=daily" style="height: 170px; width: auto;" />
   </a>
 </div>
-c/c++ adhd programmer
+c/c++/c# adhd programmer
 
 [![](https://img.shields.io/badge/-🕹️%20Raycaster-000)](https://github.com/midou5098/raycaster)
 [![](https://img.shields.io/badge/-🧭%20Pathfinder-000)](https://github.com/midou5098/pathfinder)

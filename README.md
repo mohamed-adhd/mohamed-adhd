@@ -1,7 +1,7 @@
 <div style=" display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   
 <img width="180" height="150" alt="XwI4" src="https://github.com/user-attachments/assets/c3113c2e-ff91-48ed-b485-d2e600da4dd1" />
-<img src="https://ghstats.dev/api/card?username=mohamed-adhd&theme=ocean&border_radius=27&custom_title=bruh&hide=active_day%2Cavg%2Cweek%2Cprs%2Crepos%2Ccontributions%2Cfollowers%2Cissues%2Chours%2Cstars" alt="GitHub Stats Card" />
+
 </div>
  c++/c# adhd programmer
 

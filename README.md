@@ -4,7 +4,7 @@
 <img src="https://ghstats.dev/api/card?username=mohamed-adhd&theme=tokyonight&border_radius=30.5&custom_title=bruh&hide=stars%2Ccommits%2Cprs%2Cissues%2Cweek%2Cavg%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub Stats Card" />
 
 </div>
- c#/ adhd programmer
+ c#/c adhd programmer
 
 [![](https://img.shields.io/badge/-🕹️%20Raycaster-000)](https://github.com/midou5098/raycaster)
 [![](https://img.shields.io/badge/-🧭%20Pathfinder-000)](https://github.com/midou5098/pathfinder)

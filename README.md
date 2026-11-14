@@ -24,3 +24,9 @@
 [![](https://img.shields.io/badge/-🚬%20Cbcs-000)](https://github.com/midou5098/camera-based-cigarettte-simulator)
 [![](https://img.shields.io/badge/-🎵%20Audio%20Visualizer-000)](https://github.com/midou5098/audio-visualizer)
 [![](https://img.shields.io/badge/-🌀%20Fractal%20explorer-000)](https://github.com/midou5098/fractal-explorer)
+
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/mohamed-adhd/mohamed-adhd/output/tulkun/tulkun.gif" width="640" alt="mohamed-adhd's git-tulkun" />
+  </a>
+</p>

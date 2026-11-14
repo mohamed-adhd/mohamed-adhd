@@ -27,6 +27,8 @@
 
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/mohamed-adhd/mohamed-adhd/output/tulkun/tulkun.gif" width="640" alt="mohamed-adhd's git-tulkun" />
+    <img src="https://raw.githubusercontent.com/mohamed-adhd/mohamed-adhd/output/tulkun/tulkun.gif"
+         width="640"
+         alt="My Git Tulkun" />
   </a>
 </p>

@@ -1,0 +1,40 @@
+name: Update project queue widget
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # every day at 03:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+  push:
+    paths:
+      - "scripts/build_queue.py"   # rebuild when you change the repo list
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build SVG
+        env:
+          # Falls back to the built-in token if you didn't add a STATS_TOKEN secret
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/build_queue.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/project-queue.svg; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/project-queue.svg
+          git commit -m "chore: update project queue widget"
+          git push

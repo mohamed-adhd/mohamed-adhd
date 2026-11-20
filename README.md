@@ -19,8 +19,7 @@
 [![](https://img.shields.io/badge/-🏦%20bank%20system-000)](https://github.com/midou5098/banks-system)
 [![](https://img.shields.io/badge/-🏠%20Home%20adventure-000)](https://github.com/midou5098/home-adventure)
 [![](https://img.shields.io/badge/-🚬%20Cbcs-000)](https://github.com/midou5098/camera-based-cigarettte-simulator)
-[![](https://img.shields.io/badge/-🎵%20Audio%20Visualizer-000)](https://github.com/midou5098/audio-visualizer)
-[![](https://img.shields.io/badge/-🌀%20Fractal%20explorer-000)](https://github.com/midou5098/fractal-explorer)
+
 
 </div>
 

@@ -15,8 +15,8 @@ text{font-family:'Segoe UI','Ubuntu','Helvetica Neue',Arial,sans-serif}
 <text x="332" y="72" class="v" text-anchor="end">1,196.5h</text>
 <g transform="translate(41,90.5)"><g fill="#34d399"><rect x="0" y="-1" width="2" height="7"/><rect x="4" y="-4" width="2" height="10"/><rect x="8" y="-7" width="2" height="13"/><rect x="12" y="-3" width="2" height="9"/></g></g>
 <text x="64" y="94.5" class="l">Weekly Trend:</text>
-<text x="332" y="94.5" class="v" text-anchor="end">104 commits</text>
-<g transform="translate(205,85.5)"><path d="M4 0 L8 5 H5.2 V9 H2.8 V5 H0 Z" fill="#4ade80" transform="scale(.9)"/></g><text x="217" y="93.5" class="s" fill="#4ade80">+512%</text>
+<text x="332" y="94.5" class="v" text-anchor="end">79 commits</text>
+<g transform="translate(205,85.5)"><path d="M4 0 L8 5 H5.2 V9 H2.8 V5 H0 Z" fill="#4ade80" transform="scale(.9)"/></g><text x="217" y="93.5" class="s" fill="#4ade80">+93%</text>
 <g transform="translate(41,113)"><g stroke="#fb923c" stroke-width="1.8" fill="none" stroke-linecap="round"><circle cx="7" cy="0" r="3.2"/><path d="M0 0 H3.8 M10.2 0 H14"/></g></g>
 <text x="64" y="117" class="l">Total Commits:</text>
 <text x="332" y="117" class="v" text-anchor="end">2,393</text>

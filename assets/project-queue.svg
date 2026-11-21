@@ -50,10 +50,10 @@
     <rect x="118" y="171" width="6" height="11" rx="2" opacity="0.79"/>
     <rect x="128" y="164" width="6" height="18" rx="2" opacity="0.84"/>
     <rect x="138" y="173" width="6" height="9" rx="2" opacity="0.90"/>
-    <rect x="148" y="158" width="6" height="24" rx="2" opacity="0.95"/>
+    <rect x="148" y="156" width="6" height="26" rx="2" opacity="0.95"/>
   </g>
 
-  <text x="282" y="166" fill="#ffffff" font-size="34" font-weight="800" text-anchor="end">520</text>
+  <text x="282" y="166" fill="#ffffff" font-size="34" font-weight="800" text-anchor="end">527</text>
   <text x="282" y="184" fill="#8890b5" font-size="10" letter-spacing="1.6" text-anchor="end">COMMITS</text>
 
   <!-- queue -->

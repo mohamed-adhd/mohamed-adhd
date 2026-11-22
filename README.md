@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="left" width="120" height="700" alt="" src="./assets/rain-left.gif" />
-  <img align="right" width="120" height="700" alt="" src="./assets/rain-right.gif" />
+  <img align="left" width="120" height="500" alt="" src="./assets/rain-left.gif" />
+  <img align="right" width="120" height="500" alt="" src="./assets/rain-right.gif" />
   <img align="middle" height="180" alt="avatar" src="https://github.com/user-attachments/assets/c3113c2e-ff91-48ed-b485-d2e600da4dd1" />
   <img align="middle" height="180" alt="GitHub Stats Card" src="https://ghstats.dev/api/card?username=mohamed-adhd&theme=gruvbox&border_radius=24&custom_title=logan&hide=issues%2Cstreak%2Cweek%2Cavg%2Ccontributions%2Crepos%2Cfollowers%2Cgrade&order=trend%2Chours%2Ccommits%2Cprs%2Cstars%2Cactive_day" />
 </p>

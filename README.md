@@ -7,10 +7,6 @@
 
 <p align="center">c#/c++ adhd programmer</p>
 
-<p align="center">
-  <img src="./assets/project-queue.svg" alt="Current project and queue" width="560" />
-</p>
-
 <div align="center">
 
 [![](https://img.shields.io/badge/-🕹️%20Raycaster-000)](https://github.com/midou5098/raycaster)

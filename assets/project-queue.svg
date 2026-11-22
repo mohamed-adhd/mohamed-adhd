@@ -40,17 +40,17 @@
 
   <g fill="url(#purple)">
     <rect x="38" y="140" width="6" height="42" rx="2" opacity="0.35"/>
-    <rect x="48" y="144" width="6" height="38" rx="2" opacity="0.40"/>
-    <rect x="58" y="156" width="6" height="26" rx="2" opacity="0.46"/>
-    <rect x="68" y="167" width="6" height="15" rx="2" opacity="0.51"/>
-    <rect x="78" y="167" width="6" height="15" rx="2" opacity="0.57"/>
-    <rect x="88" y="153" width="6" height="29" rx="2" opacity="0.62"/>
-    <rect x="98" y="163" width="6" height="19" rx="2" opacity="0.68"/>
+    <rect x="48" y="153" width="6" height="29" rx="2" opacity="0.40"/>
+    <rect x="58" y="166" width="6" height="16" rx="2" opacity="0.46"/>
+    <rect x="68" y="166" width="6" height="16" rx="2" opacity="0.51"/>
+    <rect x="78" y="150" width="6" height="32" rx="2" opacity="0.57"/>
+    <rect x="88" y="161" width="6" height="21" rx="2" opacity="0.62"/>
+    <rect x="98" y="170" width="6" height="12" rx="2" opacity="0.68"/>
     <rect x="108" y="171" width="6" height="11" rx="2" opacity="0.73"/>
-    <rect x="118" y="171" width="6" height="11" rx="2" opacity="0.79"/>
-    <rect x="128" y="164" width="6" height="18" rx="2" opacity="0.84"/>
-    <rect x="138" y="173" width="6" height="9" rx="2" opacity="0.90"/>
-    <rect x="148" y="156" width="6" height="26" rx="2" opacity="0.95"/>
+    <rect x="118" y="163" width="6" height="19" rx="2" opacity="0.79"/>
+    <rect x="128" y="172" width="6" height="10" rx="2" opacity="0.84"/>
+    <rect x="138" y="153" width="6" height="29" rx="2" opacity="0.90"/>
+    <rect x="148" y="176" width="6" height="6" rx="2" opacity="0.95"/>
   </g>
 
   <text x="282" y="166" fill="#ffffff" font-size="34" font-weight="800" text-anchor="end">527</text>
@@ -76,7 +76,7 @@
     <line x1="518" y1="62" x2="632" y2="62" stroke="#222744"/>
     <text x="518" y="108" fill="#d5d9f5" font-size="17" font-weight="800">packrat</text>
     <text x="518" y="126" fill="#6c749c" font-size="10">mohamed-adhd</text>
-    <text x="518" y="182" fill="#2dd4bf" font-size="28" font-weight="800" opacity="0.88">4</text>
+    <text x="518" y="182" fill="#2dd4bf" font-size="28" font-weight="800" opacity="0.88">5</text>
     <text x="518" y="198" fill="#6c749c" font-size="9" letter-spacing="1.6">COMMITS</text>
   </g>
   <g>

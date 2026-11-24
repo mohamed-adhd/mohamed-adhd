@@ -3,7 +3,7 @@
   <img align="right" width="120" height="560" alt="" src="./assets/rain-right.gif" />
   <img align="middle" height="170" alt="avatar" src="https://github.com/user-attachments/assets/c3113c2e-ff91-48ed-b485-d2e600da4dd1" />
   <a href="https://www.githubstats.tech"><img align="middle" width="300" alt="mohamed-adhd's GitHub Stats" src="https://www.githubstats.tech/api/card?username=mohamed-adhd&theme=cyber-lime&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=0&show_contributed=0&show_year=1&show_top_repo=1&show_profile=0&show_top_percent=1&contrib_stars=1" /></a>
-  <a href="https://github.com/PramudithaN/git-tulkun"><img align="middle" width="300" alt="My Git Tulkun" src="https://raw.githubusercontent.com/mohamed-adhd/mohamed-adhd/output/tulkun/tulkun.gif" /></a>
+  <a href="https://github.com/PramudithaN/git-tulkun"><img align="middle" width="500" alt="My Git Tulkun" src="https://raw.githubusercontent.com/mohamed-adhd/mohamed-adhd/output/tulkun/tulkun.gif" /></a>
 </p>
 
 <p align="center">c#/c++ adhd programmer</p>

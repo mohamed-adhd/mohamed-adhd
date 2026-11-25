@@ -12,14 +12,14 @@ text{font-family:'Segoe UI','Ubuntu','Helvetica Neue',Arial,sans-serif}
 <text x="41" y="45" class="t">bruh</text>
 <g transform="translate(41,68)"><circle cx="7" cy="0" r="7" fill="#2dd4bf"/><path d="M7 -4 V0 L10 2" stroke="#1a1b27" stroke-width="1.6" fill="none" stroke-linecap="round"/></g>
 <text x="64" y="72" class="l">Estimated Coding Hours:</text>
-<text x="332" y="72" class="v" text-anchor="end">1,207.0h</text>
+<text x="332" y="72" class="v" text-anchor="end">1,208.0h</text>
 <g transform="translate(41,90.5)"><g fill="#34d399"><rect x="0" y="-1" width="2" height="7"/><rect x="4" y="-4" width="2" height="10"/><rect x="8" y="-7" width="2" height="13"/><rect x="12" y="-3" width="2" height="9"/></g></g>
 <text x="64" y="94.5" class="l">Weekly Trend:</text>
-<text x="332" y="94.5" class="v" text-anchor="end">58 commits</text>
-<g transform="translate(205,85.5)"><path d="M4 9 L8 4 H5.2 V0 H2.8 V4 H0 Z" fill="#f87171" transform="scale(.9)"/></g><text x="217" y="93.5" class="s" fill="#f87171">-17%</text>
+<text x="332" y="94.5" class="v" text-anchor="end">46 commits</text>
+<g transform="translate(205,85.5)"><path d="M4 9 L8 4 H5.2 V0 H2.8 V4 H0 Z" fill="#f87171" transform="scale(.9)"/></g><text x="217" y="93.5" class="s" fill="#f87171">-45%</text>
 <g transform="translate(41,113)"><g stroke="#fb923c" stroke-width="1.8" fill="none" stroke-linecap="round"><circle cx="7" cy="0" r="3.2"/><path d="M0 0 H3.8 M10.2 0 H14"/></g></g>
 <text x="64" y="117" class="l">Total Commits:</text>
-<text x="332" y="117" class="v" text-anchor="end">2,414</text>
+<text x="332" y="117" class="v" text-anchor="end">2,416</text>
 <g transform="translate(41,135.5)"><g stroke="#facc15" stroke-width="1.7" fill="none" stroke-linecap="round"><circle cx="3" cy="-5" r="1.9"/><circle cx="3" cy="5" r="1.9"/><circle cx="11" cy="5" r="1.9"/><path d="M3 -3 V3 M11 3 V-3 C11 -5 9.5 -5.5 8 -5.5 H6.5"/></g></g>
 <text x="64" y="139.5" class="l">Total PRs:</text>
 <text x="332" y="139.5" class="v" text-anchor="end">110</text>
